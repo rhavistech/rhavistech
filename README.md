@@ -1,9 +1,9 @@
 # Group Rule
 Hi 👋
 
-💬 This is our repo to study GitHub: https://GitHub.com/rhavistech/DevOpsTeams
+💬 This is our repository for studying GitHub: https://GitHub.com/rhavistech/DevOpsTeams
 
-You is new in group?
+Are you new here in the group?
 
 ⚡Could you access this form for us > https://forms.gle/cSJEF6ELjTAUdUCNA
 
